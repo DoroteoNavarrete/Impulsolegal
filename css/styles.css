@@ -1038,10 +1038,6 @@ a.contact-card--wpp:hover .contact-card__icon {
   }
 
   .navbar__hamburger span {
-    background-color: var(--white);
-  }
-
-  .navbar.scrolled .navbar__hamburger span {
     background-color: var(--dark);
   }
 }
